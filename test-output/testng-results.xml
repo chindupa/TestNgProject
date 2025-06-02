@@ -2,36 +2,36 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-05-28T10:41:11 IST" name="Default suite" finished-at="2025-05-28T10:41:45 IST" duration-ms="33773">
+  <suite started-at="2025-06-02T12:13:32 IST" name="Default suite" finished-at="2025-06-02T12:14:07 IST" duration-ms="34977">
     <groups>
     </groups>
-    <test started-at="2025-05-28T10:41:11 IST" name="Default test" finished-at="2025-05-28T10:41:45 IST" duration-ms="33773">
+    <test started-at="2025-06-02T12:13:32 IST" name="Default test" finished-at="2025-06-02T12:14:07 IST" duration-ms="34977">
       <class name="testngpack.broswer">
-        <test-method is-config="true" signature="BrowserLaunch()[pri:0, instance:testngpack.broswer@66f57048]" started-at="2025-05-28T10:41:11 IST" name="BrowserLaunch" finished-at="2025-05-28T10:41:20 IST" duration-ms="8680" status="PASS">
+        <test-method is-config="true" signature="BrowserLaunch()[pri:0, instance:testngpack.broswer@66f57048]" started-at="2025-06-02T12:13:32 IST" name="BrowserLaunch" finished-at="2025-06-02T12:13:41 IST" duration-ms="9307" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BrowserLaunch -->
-        <test-method signature="Login()[pri:1, instance:testngpack.broswer@66f57048]" started-at="2025-05-28T10:41:20 IST" name="Login" finished-at="2025-05-28T10:41:25 IST" duration-ms="5070" status="PASS">
+        <test-method signature="Login()[pri:1, instance:testngpack.broswer@66f57048]" started-at="2025-06-02T12:13:41 IST" name="Login" finished-at="2025-06-02T12:13:47 IST" duration-ms="5288" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method signature="CreateEvent()[pri:2, instance:testngpack.broswer@66f57048]" started-at="2025-05-28T10:41:25 IST" name="CreateEvent" finished-at="2025-05-28T10:41:35 IST" duration-ms="10368" status="PASS">
+        <test-method signature="CreateEvent()[pri:2, instance:testngpack.broswer@66f57048]" started-at="2025-06-02T12:13:47 IST" name="CreateEvent" finished-at="2025-06-02T12:13:57 IST" duration-ms="10071" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CreateEvent -->
-        <test-method signature="ViewEvents()[pri:3, instance:testngpack.broswer@66f57048]" started-at="2025-05-28T10:41:35 IST" name="ViewEvents" finished-at="2025-05-28T10:41:38 IST" duration-ms="2554" status="PASS">
+        <test-method signature="ViewEvents()[pri:3, instance:testngpack.broswer@66f57048]" started-at="2025-06-02T12:13:57 IST" name="ViewEvents" finished-at="2025-06-02T12:14:00 IST" duration-ms="3222" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ViewEvents -->
-        <test-method signature="UpcomingEvents()[pri:4, instance:testngpack.broswer@66f57048]" started-at="2025-05-28T10:41:38 IST" name="UpcomingEvents" finished-at="2025-05-28T10:41:40 IST" duration-ms="2320" status="PASS">
+        <test-method signature="UpcomingEvents()[pri:4, instance:testngpack.broswer@66f57048]" started-at="2025-06-02T12:14:00 IST" name="UpcomingEvents" finished-at="2025-06-02T12:14:02 IST" duration-ms="2410" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- UpcomingEvents -->
-        <test-method signature="LogOut()[pri:5, instance:testngpack.broswer@66f57048]" started-at="2025-05-28T10:41:40 IST" name="LogOut" finished-at="2025-05-28T10:41:44 IST" duration-ms="4169" status="PASS">
+        <test-method signature="LogOut()[pri:5, instance:testngpack.broswer@66f57048]" started-at="2025-06-02T12:14:02 IST" name="LogOut" finished-at="2025-06-02T12:14:07 IST" duration-ms="4209" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LogOut -->
-        <test-method is-config="true" signature="QuitBrowser()[pri:0, instance:testngpack.broswer@66f57048]" started-at="2025-05-28T10:41:44 IST" name="QuitBrowser" finished-at="2025-05-28T10:41:45 IST" duration-ms="487" status="PASS">
+        <test-method is-config="true" signature="QuitBrowser()[pri:0, instance:testngpack.broswer@66f57048]" started-at="2025-06-02T12:14:07 IST" name="QuitBrowser" finished-at="2025-06-02T12:14:07 IST" duration-ms="358" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- QuitBrowser -->
